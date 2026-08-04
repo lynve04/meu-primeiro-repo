@@ -1,0 +1,51 @@
+/* Corpo da página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 40px;
+}
+
+/* Títulos */
+h1 {
+    color: #0056b3;
+    text-align: center;
+}
+
+h2 {
+    color: #0056b3;
+}
+
+/* Parágrafos */
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+/* Tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Foto */
+img {
+    width: 500px;
+    border-radius: 10px;
+    border: 3px solid #0056b3;
+    margin-right: 20px;
+}
+
+/* Listas */
+ul, ol {
+    margin-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Texto em destaque */
+strong {
+    color: #000;
+}
